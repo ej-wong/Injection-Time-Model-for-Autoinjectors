@@ -378,4 +378,5 @@ ax.set_ylabel("displacement (mm)")
 ax.set_xlabel("time (s)")
 ax.legend(loc="lower right")
 ax.grid(True)
+
 plt.savefig("displacement_plot.png", dpi=300)
