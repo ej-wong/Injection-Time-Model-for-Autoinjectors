@@ -1,1 +1,1 @@
-A dynamic simulation of spring-driven autoinjectors that predicts injection time from parameters such as spring force, fluid viscosity, and fill volume. The model provides a basis for experimental validation and supports exploration of how injector design and drug properties influence device performance.
+
